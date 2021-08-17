@@ -1,0 +1,8 @@
+{
+    "inputFname" : "[name=\"name\"]",
+    "inputLname":"[name=\"surname\"]",
+    "inputEmail":"[name=\"email\"]",
+    "inputPassword":"[name=\"password\"]",
+    "checkTerms":"[name=\"terms\"]",
+    "btnCreateAccount": ".MuiButton-label"
+}

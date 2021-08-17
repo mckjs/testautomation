@@ -1,0 +1,8 @@
+{
+    "iconAvatar" : "[data-qa=\"avatar\"]",
+    "navCardProfile" : "[data-qa=\"navigation-card-profile\"]",
+    "navCardItem" : "[data-qa=\"navigation-card-item\"]" ,
+    "navCardAuth" :  "[data-qa=\"navigation-card-authorisation\"]",
+    "btnNavCardAuthWrap":"[data-qa=\"navigation-card-authorisation\"] *[class^=\"navigation-card-authorisation__button\"] *[class^=\"class=\"MuiFormControl-root button--\"] .MuiButtonBase-root MuiButton-root MuiButton-contained .MuiButton-label",
+    "btnExample":".MuiCircularProgress-svg"
+}

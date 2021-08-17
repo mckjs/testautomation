@@ -1,0 +1,20 @@
+{
+    "baseUrl" : "https://invictuscapital.com",
+    "viewportHeight":968,
+    "viewportWidth":1024,
+    "video":true,
+    "env":{
+        "RETRIES":2,
+        "domainUrl" : "https://invictuscapital.com",
+        "apiUrl": "https://api.invictuscapital.com"
+    },
+    "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+    "reporterOptions": {
+        "overwrite": true,
+        "html": true,
+        "json": false
+    },
+    "pageLoadTimeout": 60000
+
+
+}

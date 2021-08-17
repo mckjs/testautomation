@@ -1,0 +1,8 @@
+{
+    "login" : "/en/app/login",
+    "dashboard" : "/en/app/dashboard",
+    "signup" : "/en/app/signup",
+    "logout": "/en/app/login?from=logout-button&prev-path=/en/app/dashboard"
+
+
+}

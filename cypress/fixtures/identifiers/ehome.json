@@ -1,0 +1,3 @@
+{
+    "btnClickYourAccount" : "[data-qa=\"home-header-button\"]"
+}

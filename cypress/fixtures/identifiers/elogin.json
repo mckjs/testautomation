@@ -1,0 +1,4 @@
+{
+    "btnCreateYourAccount" : "[data-qa=\"hyperlink\"]",
+    "btnLogin" : ".MuiButton-label"
+}

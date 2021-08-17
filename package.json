@@ -1,0 +1,28 @@
+{
+  "name": "jsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "delete:reportFolder": "rm -rf mochawesome-report/",
+    "test:cli": "npm run delete:reportFolder && cypress run"
+  },
+  "author": "jsm",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.2.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "faker": "^5.5.3",
+    "fs-extra": "^10.0.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "mocha": "^9.0.3",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0"
+  }
+}
