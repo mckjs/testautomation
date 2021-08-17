@@ -1,4 +1,4 @@
-# CucumberJS and Selenium Webdriver
+# Cypress Test Automation
 ### Install and setup
 - In order to run this project you need to make sure you have [nodejs](https://nodejs.org/en/download/) install
 ```sh
