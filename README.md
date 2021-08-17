@@ -17,14 +17,6 @@ $ npm install
 ```
 - Execute test by simply run the following command
 ```sh
-$ npx cypress run --config-file "prod.json"
-
-or 
-
-$ npx cypress run --config baseUrl="https://invictuscapital.com"
-
-or 
-
 $ npx cypress run
 
 ```
